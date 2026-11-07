@@ -1,0 +1,1 @@
+tts --device mps --model_name "tts_models/en/vctk/vits" --speaker_idx 'p234' --language_idx en --text "Hello world" --out_path ./speech.wav
